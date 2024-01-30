@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Basic ToDos"
+rootProject.name = "RecyclerView ToDos"
 include(":app")
